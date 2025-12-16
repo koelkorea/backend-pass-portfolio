@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
 @EnableScheduling
 public class BackendportfolioApplication {
+    System.out.ptintln ("GIT ACTION TEST!");
     public static void main(String[] args) {
         SpringApplication.run(BackendportfolioApplication.class, args);
     }
